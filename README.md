@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**Ceecee-ferdy/ceecee-ferdy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a frontend developer in progress, passionate about building clean and interactive web applications.
 
-Here are some ideas to get you started:
+## 🚀 Projects
+- 📝 To-Do App: https://ceecee-ferdy.github.io/todo-app/
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+- HTML
+- CSS
+- JavaScript
+
+## 📈 Currently Learning
+- Advanced JavaScript
+- Building real-world projects
+
+## 🎯 Goal
+To become a professional frontend developer and start earning from my skills.
